@@ -1,0 +1,9 @@
+setup.py
+gestionclientes/__init__.py
+gestionclientes/cliente_minorista.py
+gestionclientes/cliente_minorista_ventas.py
+gestionclientes/gestor_clientes.py
+gestionclientes.egg-info/PKG-INFO
+gestionclientes.egg-info/SOURCES.txt
+gestionclientes.egg-info/dependency_links.txt
+gestionclientes.egg-info/top_level.txt

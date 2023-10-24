@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: gestionclientes
+Version: 0.1
+Summary: Un paquete para la gestión de clientes para mi emprendimiento de cafe.
+Author: Bryan Vela
+Author-email: bryanedinson1998@hotmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
